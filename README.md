@@ -52,11 +52,6 @@ For Keil users, we now also support [elaphureLink](https://github.com/windowsair
     - [x] ...
 
 
-
-## Link your board
-
-### WIFI
-
 The default connected WIFI SSID is `DAP` or `OTA` , password `12345678`
 
 Support for specifying multiple possible WAP. It can be added here: [wifi_configuration.h](main/wifi_configuration.h)
